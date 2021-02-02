@@ -71,4 +71,10 @@ Variables data is data that is acquired through measurements, such as length, ti
 
 Data values that stay the same every time a program is executed are known as constants. Constants are not expected to change.
 
-# *flowcharts*
+# *_flowcharts_*
+![](flowchart1.jpeg)
+![](flowchart2.jpeg)
+![](flowchart3.jpeg)
+![](flowchart4.jpeg)
+![](flowchart5.jpeg)
+![](flowchart6.jpeg)
