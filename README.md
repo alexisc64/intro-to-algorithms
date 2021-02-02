@@ -1,6 +1,6 @@
 # intro-to-algorithms
 
-Fundamental concepts 
+*Fundamental concepts* 
 
 An algorithm is an effective step-by-step procedure for solving a problem in a finite number of steps.
 Algorithms are very important to the way computers process information, because a computer program is basically an algorithm that tells computer what specific tasks to perform in what specific order to accomplish a specific task. The same problem can be solved with different methods. So, for solving the same problem, different algorithms can be designed.
@@ -8,7 +8,7 @@ Algorithms are in everything we do.
 You could consider a cake recipe an algorithm for making a cake, for example.
 Or maybe to do something simple like listening music.
 
-Characteristics of algorithms. 
+**Characteristics of algorithms.** 
 
 Finiteness: An algorithm should have finite number of steps and it should end after a finite time.
 Input: An algorithm may have many inputs or no inputs at all.
@@ -16,7 +16,7 @@ Output: It should result at least one output.
 Definiteness: Each step must be clear, well-defined and precise. There should be no any ambiguity.
 Effectiveness: Each step must be simple and should take a finite amount of time.
 
-Algorithm representation
+*Algorithm representation*
 
 Flow of control through any given function is implemented with three basic types of control structures:
 Sequential: default mode. Sequential execution of code statements (one line after another) -- like following a recipe
@@ -37,7 +37,7 @@ The most common selection statement is the if/else statement. Basic syntax:
    else
       statement
      
-Types of algorithm representation
+**Types of algorithm representation**
 
 There are different types of algorithm representation, for example:
 
@@ -47,7 +47,7 @@ Pseudocode: Pseudocode is an informal way of programming description that does n
 
 The main difference between Pseudocode and Flowchart is that pseudocode is an informal high-level description of an algorithm while flowchart is a pictorial representation of an algorithm.
 
-Data types and expressions.
+*Data types and expressions*
 
 - Numeric data types are numbers stored in database columns. These data types are typically grouped by:
 
@@ -64,7 +64,7 @@ Character data can be stored as fixed-length or variable-length strings.
 
 - Data arrangement with explained and explanatory variables in different columns is preferred for more advanced experimental designs.
 
-Computational data
+**Computational data**
 
 Variables data is data that is acquired through measurements, such as length, time, diameter, strength, weight, temperature, density, thickness, pressure, and height. With variables data, you can decide the measurement’s degree of accuracy. Variables data is normally analyzed in pairs of charts which present data in terms of location or central location  and spread
 
