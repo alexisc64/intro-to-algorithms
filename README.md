@@ -1,4 +1,5 @@
-# intro-to-algorithms
+# algorithms fundamentals
+### Alexis Canto, Ana Sosa, Ari Martinez
 
 ## *Fundamental concepts* 
 
