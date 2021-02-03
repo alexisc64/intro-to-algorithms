@@ -17,9 +17,9 @@ previous consensus
  End
 
 start
-if(raining){find umbrella}
-elseif{don't bring umbrella}
-elseif(find umbrella){bring umbrella}
+while(raining=true){find umbrella}
+(raining=false){don't bring umbrella}
+elsewhile(find umbrella){bring umbrella}
 else{don't bring umbrella}
 End
 
